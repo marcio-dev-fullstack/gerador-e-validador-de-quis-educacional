@@ -1,4 +1,4 @@
-# 🚀 Gerador e Validador de Quiz Educacional (ZENTIX)
+# 🚀 Gerador e Validador de Quiz Educacional
 
 <div align="center">
 
